@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="left">Olá 👋 Como vai?</h1>
 
-<!--
-**andrevitxr/andrevitxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é André vitor de gusmão barbosa, e eu sou um estudante de programação com sonho de trabalhar na área da tecnologia</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Codando desde 2020 ...<br>📚 Atualmente estou aprendendo PHP, SQL e JS, pretendo trabalhar na função de Back end<br>🎲 Curiosidade: Alem de programador também sou produtor musical as vezes 🎶</p>
+
+###
+
+<h2 align="left">Eu programo com</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo javascript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="logo nodejs"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="logo python"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="logo php"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="logo sql"  />
+</div>
