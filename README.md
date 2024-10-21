@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é André vitor de gusmão barbosa, e eu sou um estudante de programação com sonho de trabalhar na área da tecnologia</p>
+<p align="left">Meu nome é André vitor de gusmão barbosa, e eu sou um programador com sonho de trabalhar na área da tecnologia</p>
 
 ###
 
