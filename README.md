@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Codando desde 2020 ...<br>📚 Atualmente estou aprendendo PHP, SQL e JS, pretendo trabalhar na função de Back end<br>🎲 Curiosidade: Alem de programador também sou produtor musical as vezes 🎶</p>
+<p align="left">✨ Codando desde 2020 ...<br>📚 Atualmente pretendo trabalhar na função de Back end<br>🎲 Curiosidade: Alem de programador também sou produtor musical as vezes 🎶</p>
 
 ###
 
-<h2 align="left">Eu programo com</h2>
+<h2 align="left">Eu programo em:</h2>
 
 ###
 
